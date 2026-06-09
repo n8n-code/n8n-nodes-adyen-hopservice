@@ -4,14 +4,14 @@ import { pciComplianceQuestionnairePageDescription } from './resources/pci-compl
 
 export class AdyenHopservice implements INodeType {
 	description: INodeTypeDescription = {
-		displayName: 'adyen-hopservice',
+		displayName: 'Adyen Hopservice',
 		name: 'N8nDevAdyenHopservice',
 		icon: { light: 'file:./adyen-hopservice.svg', dark: 'file:./adyen-hopservice.dark.svg' },
 		group: ['input'],
 		version: 1,
 		subtitle: '={{\$parameter["operation"] + ": " + \$parameter["resource"]}}',
-		description: 'The classic integration. If you are just starting your implementation, refer to our new integration guide instead',
-		defaults: { name: 'adyen-hopservice' },
+		description: 'Classic integration. For new implementations, consult the new guide.',
+		defaults: { name: 'Adyen Hopservice' },
 		usableAsTool: true,
 		inputs: [NodeConnectionTypes.Main],
 		outputs: [NodeConnectionTypes.Main],

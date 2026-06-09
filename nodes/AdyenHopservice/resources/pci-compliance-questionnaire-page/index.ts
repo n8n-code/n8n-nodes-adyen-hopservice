@@ -15,8 +15,8 @@ export const pciComplianceQuestionnairePageDescription: INodeProperties[] = [
 			},
 			"options": [
 				{
-					"name": "Post Get Pci Questionnaire Url",
-					"value": "Post Get Pci Questionnaire Url",
+					"name": "Post Get Pci Questionnaire URL",
+					"value": "Post Get Pci Questionnaire URL",
 					"action": "Get a link to a PCI compliance questionnaire",
 					"description": "Returns a link to a PCI compliance questionnaire that you can send to your account holder.\n > You should only use this endpoint if you have a [partner platform setup](https://docs.adyen.com/marketplaces-and-platforms/classic/platforms-for-partners).",
 					"routing": {
@@ -43,7 +43,7 @@ export const pciComplianceQuestionnairePageDescription: INodeProperties[] = [
 						"PCI Compliance Questionnaire Page"
 					],
 					"operation": [
-						"Post Get Pci Questionnaire Url"
+						"Post Get Pci Questionnaire URL"
 					]
 				}
 			}
@@ -69,13 +69,13 @@ export const pciComplianceQuestionnairePageDescription: INodeProperties[] = [
 						"PCI Compliance Questionnaire Page"
 					],
 					"operation": [
-						"Post Get Pci Questionnaire Url"
+						"Post Get Pci Questionnaire URL"
 					]
 				}
 			}
 		},
 		{
-			"displayName": "Return Url",
+			"displayName": "Return URL",
 			"name": "returnUrl",
 			"type": "string",
 			"default": "",
@@ -94,7 +94,7 @@ export const pciComplianceQuestionnairePageDescription: INodeProperties[] = [
 						"PCI Compliance Questionnaire Page"
 					],
 					"operation": [
-						"Post Get Pci Questionnaire Url"
+						"Post Get Pci Questionnaire URL"
 					]
 				}
 			}
@@ -119,7 +119,7 @@ export const pciComplianceQuestionnairePageDescription: INodeProperties[] = [
 						"PCI Compliance Questionnaire Page"
 					],
 					"operation": [
-						"Post Get Pci Questionnaire Url"
+						"Post Get Pci Questionnaire URL"
 					]
 				}
 			}
@@ -144,7 +144,7 @@ export const pciComplianceQuestionnairePageDescription: INodeProperties[] = [
 						"PCI Compliance Questionnaire Page"
 					],
 					"operation": [
-						"Post Get Pci Questionnaire Url"
+						"Post Get Pci Questionnaire URL"
 					]
 				}
 			}

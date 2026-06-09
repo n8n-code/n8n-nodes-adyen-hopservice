@@ -8,7 +8,7 @@ import type {
 export class AdyenHopserviceApi implements ICredentialType {
 	name = 'N8nDevAdyenHopserviceApi';
 
-	displayName = 'adyen-hopservice API';
+	displayName = 'Adyen Hopservice API';
 
 	icon: Icon = { light: 'file:../nodes/AdyenHopservice/adyen-hopservice.svg', dark: 'file:../nodes/AdyenHopservice/adyen-hopservice.dark.svg' };
 
@@ -22,7 +22,7 @@ export class AdyenHopserviceApi implements ICredentialType {
 			default: 'https://cal-test.adyen.com/cal/services/Hop/v6',
 			required: true,
 			placeholder: 'https://cal-test.adyen.com/cal/services/Hop/v6',
-			description: 'The base URL of your adyen-hopservice API server',
+			description: 'The base URL of your Adyen Hopservice API server',
 		},
 		{
 			displayName: 'API Key',

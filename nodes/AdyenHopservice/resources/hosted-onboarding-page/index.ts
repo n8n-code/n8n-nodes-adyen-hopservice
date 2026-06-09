@@ -15,8 +15,8 @@ export const hostedOnboardingPageDescription: INodeProperties[] = [
 			},
 			"options": [
 				{
-					"name": "Post Get Onboarding Url",
-					"value": "Post Get Onboarding Url",
+					"name": "Post Get Onboarding URL",
+					"value": "Post Get Onboarding URL",
 					"action": "Get a link to a Adyen-hosted onboarding page",
 					"description": "Returns a link to an Adyen-hosted onboarding page (HOP) that you can send to your account holder. For more information on how to use HOP, refer to [Hosted onboarding](https://docs.adyen.com/marketplaces-and-platforms/classic/collect-verification-details/hosted-onboarding-page). ",
 					"routing": {
@@ -43,7 +43,7 @@ export const hostedOnboardingPageDescription: INodeProperties[] = [
 						"Hosted Onboarding Page"
 					],
 					"operation": [
-						"Post Get Onboarding Url"
+						"Post Get Onboarding URL"
 					]
 				}
 			}
@@ -69,7 +69,7 @@ export const hostedOnboardingPageDescription: INodeProperties[] = [
 						"Hosted Onboarding Page"
 					],
 					"operation": [
-						"Post Get Onboarding Url"
+						"Post Get Onboarding URL"
 					]
 				}
 			}
@@ -94,7 +94,7 @@ export const hostedOnboardingPageDescription: INodeProperties[] = [
 						"Hosted Onboarding Page"
 					],
 					"operation": [
-						"Post Get Onboarding Url"
+						"Post Get Onboarding URL"
 					]
 				}
 			}
@@ -119,13 +119,13 @@ export const hostedOnboardingPageDescription: INodeProperties[] = [
 						"Hosted Onboarding Page"
 					],
 					"operation": [
-						"Post Get Onboarding Url"
+						"Post Get Onboarding URL"
 					]
 				}
 			}
 		},
 		{
-			"displayName": "Mobile O Auth Callback Url",
+			"displayName": "Mobile O Auth Callback URL",
 			"name": "mobileOAuthCallbackUrl",
 			"type": "string",
 			"default": "",
@@ -144,7 +144,7 @@ export const hostedOnboardingPageDescription: INodeProperties[] = [
 						"Hosted Onboarding Page"
 					],
 					"operation": [
-						"Post Get Onboarding Url"
+						"Post Get Onboarding URL"
 					]
 				}
 			}
@@ -169,13 +169,13 @@ export const hostedOnboardingPageDescription: INodeProperties[] = [
 						"Hosted Onboarding Page"
 					],
 					"operation": [
-						"Post Get Onboarding Url"
+						"Post Get Onboarding URL"
 					]
 				}
 			}
 		},
 		{
-			"displayName": "Return Url",
+			"displayName": "Return URL",
 			"name": "returnUrl",
 			"type": "string",
 			"default": "",
@@ -194,7 +194,7 @@ export const hostedOnboardingPageDescription: INodeProperties[] = [
 						"Hosted Onboarding Page"
 					],
 					"operation": [
-						"Post Get Onboarding Url"
+						"Post Get Onboarding URL"
 					]
 				}
 			}
@@ -219,7 +219,7 @@ export const hostedOnboardingPageDescription: INodeProperties[] = [
 						"Hosted Onboarding Page"
 					],
 					"operation": [
-						"Post Get Onboarding Url"
+						"Post Get Onboarding URL"
 					]
 				}
 			}
@@ -244,7 +244,7 @@ export const hostedOnboardingPageDescription: INodeProperties[] = [
 						"Hosted Onboarding Page"
 					],
 					"operation": [
-						"Post Get Onboarding Url"
+						"Post Get Onboarding URL"
 					]
 				}
 			}
@@ -269,7 +269,7 @@ export const hostedOnboardingPageDescription: INodeProperties[] = [
 						"Hosted Onboarding Page"
 					],
 					"operation": [
-						"Post Get Onboarding Url"
+						"Post Get Onboarding URL"
 					]
 				}
 			}
@@ -294,7 +294,7 @@ export const hostedOnboardingPageDescription: INodeProperties[] = [
 						"Hosted Onboarding Page"
 					],
 					"operation": [
-						"Post Get Onboarding Url"
+						"Post Get Onboarding URL"
 					]
 				}
 			}

@@ -53,10 +53,19 @@ That's it. No configuration files. No code. It just works.
 
 ## Resources
 
-| Resource | Operations |
-|----------|------------|
-| Hosted Onboarding Page | Post get a link to a adyenhosted onboarding page |
-| PCI Compliance Questionnaire Page | Post get a link to a pci compliance questionnaire |
+<details>
+<summary><b>Hosted Onboarding Page</b> (1 operations)</summary>
+
+- Post Get a link to a Adyen hosted onboarding page
+
+</details>
+
+<details>
+<summary><b>PCI Compliance Questionnaire Page</b> (1 operations)</summary>
+
+- Post Get a link to a PCI compliance questionnaire
+
+</details>
 
 ---
 
